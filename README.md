@@ -89,7 +89,7 @@ Here, we define our window, create our initial ViewController with a funky backg
 ### Sanity Check
 Running the app now, you should see this:
 
-<img src="docs/readme-images/its-alive.png?raw=true" width="40%" alt="It works!">
+<img src="docs/readme-images/its-alive.png?raw=true" width="30%" alt="It works!">
 
 If you don't see this, go back and make sure you haven't missed a step!
 
@@ -166,8 +166,7 @@ Anyways, we add some width and height to the button, then add our constraints to
 
 Try running it!  You should see our button.
 
-![Our Button!.](docs/readme-images/button-shown.png?raw=true "Our Button!")
-
+<img src="docs/readme-images/button-shown.png?raw=true" width="30%" alt="Our Button.">
 
 ### Sanity Check
 Clicking on the button should display "You pressed me!" in our debug area.  If not, go back and make sure you've added the function!
@@ -190,15 +189,16 @@ Here, we're instantiating a view controller, changing the background color of it
 
 Go ahead and run the app.  When the button is pressed, you should see this:
 
-![Finished.](docs/readme-images/second-controller.png?raw=true "Finished!")
+![Finished.]( "Finished!")
+<img src="docs/readme-images/second-controller.png?raw=true" width="30%" alt="Second Controller Shown.">
+
 
 ### Challenge Time
 Up for a challenge?  See if you can add a UILabel to our second viewcontroller, center it in the screen, with the text "Storyboard-less Design!"
 
 Example:
 
-![Completed Challenge.](docs/readme-images/challenge.png?raw=true "Completed challenge!")
-
+<img src="docs/readme-images/challenge.png?raw=true" width="30%" alt="Challenge example.">
 
 Hint: Most of the code is the exact same 🙂
 
