@@ -40,7 +40,7 @@ These are the files that need to be deleted:
 
 Your project should now look like this in the project navigator:
 
-![Files after deletion.](docs/readme-images/after-deletion.png?raw=true "Files after deletion.")
+![Files after deletion.](docs/readme-images/after-delete.png?raw=true "Files after deletion.")
 
 ### Sanity Check
 Go ahead and try to build the project.  You'll notice that it succeeds, but crashes when run.  Looking at the crash log, you'll see this:
@@ -55,8 +55,7 @@ Click on the project in the project navigator and scroll down to ""Deployment In
 Remove the reference to Main in the "Main Interface" option by deleting "Main".
 
 ![Remove Main reference.](docs/readme-images/main-reference.png?raw=true "Remove Main reference.")
-
-Your project should now build!  Now on to the fun part 🙂.
+Your project should now build!  Now onto the fun part 🙂.
 
 ### Step 5: Set Initial View Controller
 Now that we removed our Main.sotryboard, we need some way of telling our app which ViewController should be displayed first.
@@ -90,7 +89,7 @@ Here, we define our window, create our initial ViewController with a funky backg
 ### Sanity Check
 Running the app now, you should see this:
 
-![It works!.](docs/readme-images/its-alive.png?raw=true "It Works!")
+<img src="docs/readme-images/its-alive.png?raw=true" width="40%" alt="It works!">
 
 If you don't see this, go back and make sure you haven't missed a step!
 
